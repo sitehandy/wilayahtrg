@@ -1,0 +1,24 @@
+
+
+Routing
+1) Halaman Utama (/)
+
+Authentication
+2) Halaman Login (/login)
+3) Halaman Register (/register)
+4) Halaman Forgot Password (/forgot-password)
+
+// User
+5) Halaman dashboard (/dashboard)
+6) Halaman Urus Inventori
+ - Halaman senarai rekod
+ - Tambah rekod
+ - Edit / Update Rekod
+ - Delete Rekod
+
+
+// Management
+7) Urus Users
+ - CRUD User
+
+8) Urus Inventori
